@@ -1,5 +1,5 @@
 <div class="aside">
-    <h3>博客简介</h3>
+    <h3>本站公告</h3>
     <?php
         if (get_option('weipxiu_options')['side_video'] == 'on') {
             ?>
